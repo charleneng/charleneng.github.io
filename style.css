@@ -1,19 +1,20 @@
 body {
-	margin: 0;
-	padding: 0;
-	background: purple;
-	color: yellow;
-	font-family: Times New Roman;
-}
-main {
-	padding: 1em;
-}
-h1 {
-	margin: 0 0 1em 0;
-}
-h4{
-	margin: 0 0 1em 0;
-}
-p {
-	margin: 0 0 1em 0;
-}
+		margin: 0;
+		padding: 0;
+		background: purple;
+		color: white;
+		font-family: Times New Roman;
+	}
+	
+	
+	h2{
+		font: Georgia Header;
+		color: white;
+	}
+	h4{
+		margin: 0 0 1em 0;
+	}
+	p{
+		font: palatino;
+		color: white;
+	}
